@@ -1,5 +1,3 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lightjiao.lightjiao)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lightjiao&show_icons=true&theme=default&hide_title=true" />
 
 - 👨‍💻 电子游戏开发者  
